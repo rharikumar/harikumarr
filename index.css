@@ -1,0 +1,26 @@
+
+* {
+    box-sizing: border-box;
+  }
+
+/*   
+  html {
+    font-size: 14px;
+  } */
+  
+  body {
+    background: #f6f9fc;
+    font-family: "Open Sans", sans-serif;
+    color: #525f7f;
+  }
+
+  h1 {
+    margin: 10%;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 100;
+  }
+
+  .mainpage {
+      margin: 20%;
+  }
